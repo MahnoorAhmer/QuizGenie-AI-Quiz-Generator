@@ -1,2 +1,1 @@
-# QuizGenie-AI-Quiz-Generator
-An AI-powered quiz generator that creates MCQs from students' lecture notes
+QuizGenie is an AI-powered quiz generation web application designed to help students prepare for exams more effectively. It allows students to paste their lecture notes and automatically generate multiple-choice questions (MCQs) using Google's Gemini AI. Students can attempt interactive quizzes, receive instant scores, review correct answers, and save their generated quizzes for future practice. The application also provides quiz history management, allowing users to view, rename, retake, and delete their saved quizzes. QuizGenie aims to make studying easier, faster, and more interactive through the use of Generative AI.
